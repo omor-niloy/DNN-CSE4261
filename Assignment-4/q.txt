@@ -1,0 +1,11 @@
+Manually draw a neural network having 3 hidden layers for classifying images of 10 English digits. 
+
+Manually draw Forward Propagation Computation Graph
+
+Manually draw Backpropagation Computation Graph
+
+Manually derive equations for updating weights of each hidden layer  and output layer.
+
+Train model using the MNIST digit dataset with the help of Tensorflow's tf.GradientTape().
+
+Compare the performance of the model trained by tf.GradientTape() with Tensorflow's model.fit()

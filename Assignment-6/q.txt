@@ -1,0 +1,5 @@
+By the help of Grad-CAM and Integrated Gradients, investigate which area of an adversarial example of an image makes your favorite neural network confused. 
+
+Compare most important area of an adversarial example with the important area of the original image.
+
+Investigate what will happen if you consider softmax layer for Grad-CAM and the previous-layer of the softmax layer for IG for estimating gradients.
